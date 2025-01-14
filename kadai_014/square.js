@@ -1,5 +1,5 @@
 const nijou = (i) => {
-  console.log(i * i);
+ return i * i;
 }
 
-nijou(10);
+console.log(nijou(10));
